@@ -1,0 +1,34 @@
+{
+  "name": "serhat-dalcicek",
+  "version": "1.0.0",
+  "description": "bu bir deneme projesidir",
+  "main": "index.js",
+  "dependencies": {
+    "mongoose": "^6.0.4",
+    "nodemailer": "^6.6.3",
+    "simple-is": "^0.2.0" 
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serhat": "echo `Benim adım serhat`",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "Serhat Dalcicek" ,
+  "license": "ISC",
+  "dependencies" :{
+    "mongoose": "^6.0.4",
+    "nodemailer": "^6.6.3",
+    "simple-is": "^0.2.0" 
+  },
+
+"respository": {
+  "type":"git",
+  "url" :"https://github.com/serhatdalcicek/serhat-dalcicek.git"
+
+}
+}
